@@ -1,4 +1,4 @@
-# ImageGeneration
+# Ethnofit
 
 ## Using Docker Image
 docker stop ethnofit-app
