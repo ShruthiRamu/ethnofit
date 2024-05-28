@@ -13,7 +13,7 @@ import openai
 import requests
 from PIL import Image  
 
-openai_api_key = "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"
+openai_api_key = ""
 openai_api_base = "https://api.openai.com/v1"
 #image_dir = "/Users/macuser/Documents/GenAIProjects/ImageGeneration/demo_app/images"
 image_dir = "./demo_app/images"
