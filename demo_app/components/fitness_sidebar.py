@@ -30,13 +30,13 @@ def fitness_sidebar():
             )
 
             sex = st.selectbox(
-                "SEX", 
+                "Sex", 
                 ("Female", "Male"),
                 placeholder="Link to your apple/fitbit"
             )
 
             height = st.text_input(
-                "HEIGHT(in cm)", 
+                "Height(in cm)", 
                 placeholder="Link to your apple/fitbit"
             )
 
